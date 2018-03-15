@@ -1,0 +1,41 @@
+<publiccloud.example.com.popgridview.RatioFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:ratio="1">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+
+        <LinearLayout
+            android:id="@+id/ll_item"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:background="@drawable/shap_corner_white"
+            android:layout_margin="5dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp">
+            <ImageView
+                android:id="@+id/iv_show"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:scaleType="centerInside" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_show"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ll_item"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="店铺管理"
+            android:textColor="#383838"
+            android:textSize="12sp" />
+    </RelativeLayout>
+</publiccloud.example.com.popgridview.RatioFrameLayout>
