@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/3a772dd09ed235db0ee53de5cf8c17511f9c6b81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/mac/Documents/androidstudio/PrintWork/app/build/intermediates/pre-dexed/debug/classes_40641d2c652c97f582f79af213cc8b26eb10ad53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/871856233f091e216d5ec207e8b5df23762750fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/mac/Documents/androidstudio/PrintWork/app/build/intermediates/pre-dexed/debug/classes_1bbe0dbdaeac3b40a660c0c4002e21bff35e91b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/b8ad963c695da27bbbc947550ed6a6c0ef6cb450/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mac/Documents/androidstudio/PrintWork/app/build/intermediates/pre-dexed/debug/classes_5b2e3f0fc1bdddda0dd3c56b75354014a81ee9c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/8903bb83f8625dff9d0d2a0575b0270aa0aa6cb0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/mac/Documents/androidstudio/PrintWork/app/build/intermediates/pre-dexed/debug/classes_ba67c920d6f1ae74fef9274ec364c78b87e2d8bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/mac/Documents/androidstudio/PrintWork/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_cd23e4469d671ec59352399ea09c56571c590a57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/a3751fa673599603c7f2180af47f8967a81efec9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/mac/Documents/androidstudio/PrintWork/app/build/intermediates/pre-dexed/debug/classes_55c9cdcd3126a9b091074212638eb1e38ba51653.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/cfc4f6e568225bd0645986ce57e900b80a2b861c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mac/Documents/androidstudio/PrintWork/app/build/intermediates/pre-dexed/debug/classes_000c4a1e9abf057852bf25bf50170189601ed022.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/1215377c9f0fca3e546ee8d6fd8681481796c723/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/mac/Documents/androidstudio/PrintWork/app/build/intermediates/pre-dexed/debug/classes_40d113f098cf5e76f9ded478d6cf60f73e07e4ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/687ec1cce6b6b3b4f965915559038768c4bf460c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mac/Documents/androidstudio/PrintWork/app/build/intermediates/pre-dexed/debug/classes_4985a423d81d17eeb6a571cbfda1dd251d79c521.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/mac/Documents/androidstudio/PrintWork/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_02bceb0fcb9a35217234bd81ccbcb504900a1e4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/1ba4a34801594d3255aaf535d5e5272fd1783e61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/mac/Documents/androidstudio/PrintWork/app/build/intermediates/pre-dexed/debug/classes_3b4e8f136bf795efbffd3ffcb28a3f1479d66579.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/426556ebf59b1f884a00b9f59fde4071f01053c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mac/Documents/androidstudio/PrintWork/app/build/intermediates/pre-dexed/debug/classes_c35bcac623e7dbbcc17724499d33864b6117f44c.jar" />
+    </item>
+
+</items>
